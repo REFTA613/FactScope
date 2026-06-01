@@ -37,10 +37,4 @@ To ensure a smooth development workflow while respecting API provider policies:
 - **Architecture:** MVVM + Clean Architecture UseCases
 
 ---
-_Developed to bring transparency and accuracy to official information access._
-# FactScope
-# FactScope
-# FactScope
-# FactScope
-# FactScope
-# FactScope
+
